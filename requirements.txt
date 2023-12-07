@@ -1,0 +1,6 @@
+nltk
+gutenberg
+scikit-learn
+tqdm
+pandas
+numpy
