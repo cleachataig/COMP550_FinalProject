@@ -1,4 +1,5 @@
 # --- Code adapted from the PyPi module chapterize ---
+# This class is useful to break a book into chapters
 
 import re
 

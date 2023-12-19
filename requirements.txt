@@ -1,6 +1,12 @@
-nltk
-gutenberg
-scikit-learn
 tqdm
-pandas
+pickle
 numpy
+matplotlib
+pandas
+seaborn
+gutenberg
+gensim
+langdetect
+scikit-learn
+scikit-multilearn
+nltk
